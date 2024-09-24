@@ -1,4 +1,3 @@
-# upcloud--tf-script
 # UpCloud VM
 
 UpCloud referral to get $25 credits: [https://upcloud.com/signup/?promo=Y2RZ4S](https://upcloud.com/signup/?promo=Y2RZ4S)
